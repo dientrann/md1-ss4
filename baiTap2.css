@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000");
+}
+
+div{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+button{
+    width:240px ;
+    height: 40px;
+    background-color: rgb(226,81,59);
+    color: white;
+    border: none;
+}
